@@ -1,0 +1,68 @@
+body {
+  background-image: url("../images/phillysports.png");
+}
+
+.buttons,
+#sport-input,
+#add-sport
+
+
+{
+  margin: 5px;
+  border: 3px solid limegreen;
+
+}
+
+#sport-div {
+  display: inline-block;
+  margin: 5px;
+}
+
+#gif-buttons {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+.rating {
+  margin-bottom: 5px;
+  font-family: :'Courier New', Courier, monospace,;
+  text-align: left;
+  color: white;
+}
+
+.display-4 {
+  font-family: 'courier new';
+}
+
+#sport-label {
+  font-size: 24px;
+  font-family: 'Cosmic Sans';
+}
+
+#sport-form {
+  position: right: 200px;
+}
+
+.lead {
+  margin-top: 20px;
+  font-size: 24px;
+}
+
+
+
+.page-instructions {
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 5px;
+  color: white;
+}
+
+#attribution {
+  margin-top: 30px;
+}
+
+p {
+  color: white;
+}
